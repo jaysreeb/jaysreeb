@@ -1,5 +1,4 @@
 - 👋 Hi, I'm @jaysreeb
 - 👀 Interested in "making things work"
-- 🌱 Learning HTML, CSS, JavaScript
+- 🌱 MERN
 - 💪 Fitness enthusiast: weightlifting and swimming
-- 🧠 Lifelong learner: Learned to ride a bicycle at 25, swim at 27 🏊‍♂️ - It's never too late to learn something new!
