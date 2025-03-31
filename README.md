@@ -1,4 +1,6 @@
 - 👋 Hi, I'm @jaysreeb
 - 👀 Interested in "making things work"
 - 🌱 MERN
+- 🌱 Python
+- 🌱 DSA
 - 💪 Fitness enthusiast: weightlifting and swimming
