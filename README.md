@@ -1,7 +1,3 @@
-- 👋 Hi, I'm @jaysreeb
-- 👀 Interested in "making things work"
-- 🌱 MERN
-- 🌱 SQL
-- 🌱 Python
-- 🌱 DSA
-- 💪 Fitness enthusiast: weightlifting and swimming
+- Hi, I'm Jay👋 
+- Interested in "Learning how things work and why it works if it works 👀"
+- I love programming, the process of turning logic into something functional excites me :heart: 
