@@ -1,3 +1,1 @@
-- Hi, I'm Jay👋 
-- Interested in "Learning how things work and why it works if it works 👀"
-- I love programming, the process of turning logic into something functional excites me :heart: 
+# Hey, I'm JB 👋
